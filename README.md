@@ -8,7 +8,7 @@ Uma calculadora simples que realiza operações matemáticas básicas como soma,
 - Realiza as quatro operações básicas: **soma (+)**, **subtração (-)**, **multiplicação (*)** e **divisão (/)**.
 - Tratamento para **divisão por zero**.
 
-## Como executra
+## Como executar
 
 1. Clone este repositório:
    ```bash
